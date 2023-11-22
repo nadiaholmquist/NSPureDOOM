@@ -1,0 +1,4 @@
+module PureDOOM {
+	header "Headers/CPureDOOM.h"
+	export *
+}
